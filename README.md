@@ -28,6 +28,8 @@ So I had to modify it somehow. Yes I could see any existed projects to modify it
 - This is the first time, I fully generated a code on my own idea and implemented it without any extra knowledge.
 - I used Data Structes, Recursion Knowledge finally somewhere else from Programming Contests. 😅
 - I was searching for a scope to use my CPP knowledge to use. And I did it.
+- I not only used my CPP knowledge, but also used my JS knowledge to convert the algorithm in another language.
+- I actually visualized that if I udnerstand one language good, it takes only instant to understand another new language. (Exactly ehat happens in Software industry)
 - I fall in love with SUDOKU so much that I finished all the 100 levels within 2 weeks of that handset.
 - I am planning to use this algorithm to make an android/IOS app and play it. It would be just satisfaction if I make my own favorite game app and play it. I already started making React Native app for this. I am just waiting to get my android in hand. I will update this readme.md then.
 - I was being bored in Covid Holidays. So I used a good time doing it. Also it didn't take much time from me.
